@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.monserrat {
+    font-family: 'Montserrat', sans-serif;
+}
+.france {
+    font-family:  'Fraunces', serif;
+}
