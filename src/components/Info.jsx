@@ -15,7 +15,7 @@ const Info = () => {
             </span>
         </p>
 
-        <button className="bg-[#3d8168] text-white w-full py-2 mt-4 mb-5 rounded-lg flex justify-center items-center font-bold" > <img src= { imgCart } alt="Imagen de Cart" className='mr-2' /> Add to Cart</button>
+        <button className="bg-[#3d8168] text-white w-full py-2 mt-4 mb-5 rounded-lg flex justify-center items-center font-bold hover:cursor-pointer hover:bg-[#1a4031] transition ease-in-out duration-300" > <img src= { imgCart } alt="Imagen de Cart" className='mr-2' /> Add to Cart</button>
     </div>
   )
 }
